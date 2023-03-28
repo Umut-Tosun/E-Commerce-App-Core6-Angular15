@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Presentation\\ECommerceApi.Api\\ECommerceApi.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj",
+        "projectName": "ECommerceApi.Application",
+        "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj",
+        "packagesPath": "C:\\Users\\tosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj",
+        "projectName": "ECommerceApi.Domain",
+        "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\tosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Infrastructure\\ECommerceApi.Persistence\\ECommerceApi.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Infrastructure\\ECommerceApi.Persistence\\ECommerceApi.Persistence.csproj",
+        "projectName": "ECommerceApi.Persistence",
+        "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Infrastructure\\ECommerceApi.Persistence\\ECommerceApi.Persistence.csproj",
+        "packagesPath": "C:\\Users\\tosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Infrastructure\\ECommerceApi.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj": {
+                "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Presentation\\ECommerceApi.Api\\ECommerceApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Presentation\\ECommerceApi.Api\\ECommerceApi.Api.csproj",
+        "projectName": "ECommerceApi.Api",
+        "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Presentation\\ECommerceApi.Api\\ECommerceApi.Api.csproj",
+        "packagesPath": "C:\\Users\\tosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Presentation\\ECommerceApi.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj": {
+                "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj"
+              },
+              "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Infrastructure\\ECommerceApi.Persistence\\ECommerceApi.Persistence.csproj": {
+                "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Infrastructure\\ECommerceApi.Persistence\\ECommerceApi.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

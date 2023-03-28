@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ECommerceApi.Application/1.0.0": {
+        "dependencies": {
+          "ECommerceApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ECommerceApi.Application.dll": {}
+        }
+      },
+      "ECommerceApi.Domain/1.0.0": {
+        "runtime": {
+          "ECommerceApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerceApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerceApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

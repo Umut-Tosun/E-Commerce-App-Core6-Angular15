@@ -1,0 +1,12 @@
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\bin\Debug\net6.0\ECommerceApi.Domain.deps.json
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\bin\Debug\net6.0\ECommerceApi.Domain.dll
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\bin\Debug\net6.0\ECommerceApi.Domain.pdb
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.csproj.AssemblyReference.cache
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.AssemblyInfoInputs.cache
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.AssemblyInfo.cs
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.dll
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\refint\ECommerceApi.Domain.dll
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ECommerceApi.Domain.pdb
+C:\Users\tosun\Masaüstü\ECommerceApi\Core\ECommerceApi.Domain\obj\Debug\net6.0\ref\ECommerceApi.Domain.dll

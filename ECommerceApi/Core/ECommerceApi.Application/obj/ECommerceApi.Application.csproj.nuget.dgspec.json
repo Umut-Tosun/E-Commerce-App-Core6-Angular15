@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj",
+        "projectName": "ECommerceApi.Application",
+        "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj",
+        "packagesPath": "C:\\Users\\tosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj",
+        "projectName": "ECommerceApi.Domain",
+        "projectPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\ECommerceApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\tosun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tosun\\Masaüstü\\ECommerceApi\\Core\\ECommerceApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tosun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
